@@ -8,9 +8,5 @@ Before reporting, please consider following these simple rules:
 To keep everything clear and descriptive, please follow the format on the ISSUE_FORMAT.MD file
 as this will help us immediately understand what the expected behavior should be, the behavior the bot is doing
 and how to replicate the issue.
-
-Screenshots are well-appreciated as well if possible.
-
-[Bug Report Template](https://github.com/ManaNet/mana-issues/issues/new?assignees=ShindouMihou&labels=bug&template=bug-report.md&title=%5BBUG%5D)
-
-[Feature Request Template](https://github.com/ManaNet/mana-issues/issues/new?assignees=ShindouMihou&labels=enhancement&template=feature_request.md&title=%5BFEATURE%5D)
+* [Bug Report Template](https://github.com/ManaNet/mana-issues/issues/new?assignees=ShindouMihou&labels=bug&template=bug-report.md&title=%5BBUG%5D)
+* [Feature Request Template](https://github.com/ManaNet/mana-issues/issues/new?assignees=ShindouMihou&labels=enhancement&template=feature_request.md&title=%5BFEATURE%5D)
